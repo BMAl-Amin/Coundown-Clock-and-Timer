@@ -8,7 +8,7 @@ class CountDown:
     def countdown_time(self, time_length):
         """
      :param time_length:
-     This method divide seconds
+     This method divide seconds into minutes and start countdown
         """
         print(f'Your countdown length is {time_length} minutes')
         seconds_length = int(time_length) * 60
