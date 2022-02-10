@@ -4,7 +4,6 @@ import time
 
 class CountDown:
 
-    import time
     def countdown_time(self, time_length):
         """
      :param time_length:
